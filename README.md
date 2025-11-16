@@ -23,8 +23,10 @@ The frequency of oscillation is given by fo   = 1/2πRC
 <img width="417" height="324" alt="image" src="https://github.com/user-attachments/assets/53ef7b91-7bd4-4e06-b98c-d80970261018" />
 
 ## TABULATION:
+![WhatsApp Image 2025-11-16 at 09 41 11_3d2edc29](https://github.com/user-attachments/assets/695bf985-bc56-404e-9d29-34ee84b912c8)
 
 ## GRAPH:
+![WhatsApp Image 2025-11-16 at 09 41 52_6c11b4ad](https://github.com/user-attachments/assets/2b0af791-1e68-4ed8-9eec-446214eb5bea)
 
 ## CIRCUIT DIAGRAM:
 ## WIEN BRIDGE OSCILLATOR
@@ -34,6 +36,7 @@ The frequency of oscillation is given by fo   = 1/2πRC
 <img width="417" height="324" alt="image" src="https://github.com/user-attachments/assets/95210d90-f00a-426b-bd1a-54a3a536b2c3" />
 
 ## TABULATION:
+![WhatsApp Image 2025-11-16 at 09 49 10_36d2c7d9](https://github.com/user-attachments/assets/7e570781-5ef9-4051-a9f4-d273b514ad96)
 
 ## DESIGN:
 ## RC PHASE SHIFT OSCILLATOR
@@ -66,4 +69,4 @@ To prevent loading,
 3.	Measure the output wave frequency and amplitude.
 
 ## RESULT:
-
+Thus,a RC phase shift and Wien bridge oscillator to generate sine wave using op-amp is constructed.
